@@ -1,8 +1,8 @@
 import { ImagePage } from "@/components/ImagePage";
 
-export default function Licitacoes() {
+export default function Project() {
   return (
-    <ImagePage 
+    <ImagePage     
       title="Curso de Capacitação para nova lei de licitações e contratos"
       description="Curso de capacitação para implementação da nova lei de licitações e contratos no município de Niterói"
       type="Estudo Analítico"

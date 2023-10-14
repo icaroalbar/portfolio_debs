@@ -1,8 +1,8 @@
 import { ImagePage } from "@/components/ImagePage";
 
-export default function Caixa() {
+export default function Project() {
   return (
-    <ImagePage 
+    <ImagePage     
       title="Roadmap para contratação de curso - Inexigibilidade"
       description="Consultoria para Escritório de Gestão de Projetos de Niterói."
       type="Estudo Analítico"
