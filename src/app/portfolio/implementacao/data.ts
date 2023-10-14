@@ -4,7 +4,7 @@ export const data = [
       description: "Estratégia para certificar os servidores da prefeitura de Niterói que trabalham com contratações públicas na Nova Lei de Licitações e Contratos - 14.133/2021.",
       type: "Implementação",
       local: "Escola de Governo e Gestão",
-      image: "estrategia_formação_nllc/slide1.png",
+      image: "estrategia_formacao_nllc/slide1.png",
       link: ""
     },
     {
