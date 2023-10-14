@@ -8,7 +8,7 @@ export default function Solicitacoes() {
       type="Estratégico"
       local="Escola de Governo e Gestão"
       folder="formulario_de_solicitacoes"
-      slideTotal={41}
+      SlideTotal={41}
       back='formularios'
     />
   )

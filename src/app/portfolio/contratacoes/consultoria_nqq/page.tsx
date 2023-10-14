@@ -8,7 +8,7 @@ export default function ConsultoriaNqq() {
       type="Estudo Analítico"
       local="Núcleo de Orçamento Setorial e Contratos"
       folder="consultoria_nqq"
-      slideTotal={10}
+      SlideTotal={10}
       back='contratacoes'
     />
   )

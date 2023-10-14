@@ -8,7 +8,7 @@ interface ImagePageProps {
     type: string;
     local: string;
     folder: string;
-    slideTotal: number;
+    SlideTotal: number;
     back: string
 }
 
@@ -18,7 +18,7 @@ export const ImagePage = ({
     type,
     local,
     folder,
-    slideTotal,
+    SlideTotal,
     back
 }: ImagePageProps) => {
   return (
@@ -42,11 +42,11 @@ export const ImagePage = ({
         {
           (function() {
             const images = [];
-            for (let i = 1; i <= slideTotal; i++) {
+            for (let i = 1; i <= SlideTotal; i++) {
               images.push(
                 <Image
                   key={i}
-                  src={`/images/${folder}/slide${i}.png`}
+                  src={`/${folder}/Slide${i}.png`}
                   width={350}
                   height={350}
                   alt={`Foto de Deborah Moreira - Slide ${i}`}

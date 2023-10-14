@@ -8,7 +8,7 @@ export default function FormularioNllc() {
       type="Estratégico"
       local="Escola de Governo e Gestão"
       folder="formulario_nllc"
-      slideTotal={14}
+      SlideTotal={14}
       back='formularios'
     />
   )

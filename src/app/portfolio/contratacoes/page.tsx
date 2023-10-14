@@ -9,7 +9,7 @@ export default function Contratacoes() {
       <div className="inline-block">
       <Link href={'/'} className="bg-secondary-10 text-white font-medium rounded-md px-5 py-1 transition-colors hover:bg-secondary-20 flex gap-x-1 items-center"><BiLeftArrowAlt />Voltar</Link>
       </div>
-      <h1 className="text-3xl font-semibold text-blue-10 mt-6 text-center md:text-start">Planejamento para contratações</h1>
+      <h1 className="text-3xl font-semibold text-blue-10 mt-6 text-center md:text-start">Formularios estrategicos</h1>
 
       {data.map((item, index) => (
         <Link href={`/${item.link}`} key={index}>
@@ -17,7 +17,7 @@ export default function Contratacoes() {
         <div className="grid grid-cols-3 gap-x-5 border-2 border-primary-10 px-3 py-8 rounded-lg my-3">
           <div className="col-span-3 lg:col-span-1 flex justify-center lg:justify-end">
           <Image
-            src={`/images/${item.image}/`}
+            src={`./${item.image}`}
             width={300}
             height={300}
             alt="Foto de Deborah Moreira"

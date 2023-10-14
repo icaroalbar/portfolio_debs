@@ -8,7 +8,7 @@ export default function Licitacoes() {
       type="Estudo Analítico"
       local="Secretaria de Planejamento, Orçamento e Modernização da Gestão"
       folder="nova_lei_licitacoes"
-      slideTotal={15}
+      SlideTotal={15}
       back='contratacoes'
     />
   )

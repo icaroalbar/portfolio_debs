@@ -8,7 +8,7 @@ export default function Fluxos() {
       type= "Ebooks e painéis visuais"
       local= "Subsecretaria Executiva - Núcleo de Orçamento Setorial e Contratos"
       folder="fluxos_processuais"
-      slideTotal={71}
+      SlideTotal={71}
       back='ebook'
     />
   )

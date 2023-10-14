@@ -8,7 +8,7 @@ export default function ContratacaoAnual() {
       type="Estratégico"
       local="Subsecretaria Executiva - Núcleo de Orçamento Setorial e Contratos"
       folder="formulario_pca"
-      slideTotal={16}
+      SlideTotal={16}
       back='formularios'
     />
   )
