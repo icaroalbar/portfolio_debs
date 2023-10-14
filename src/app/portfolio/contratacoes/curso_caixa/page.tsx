@@ -8,7 +8,7 @@ export default function Caixa() {
       type="Estudo Analítico"
       local="Escola de Governo e Gestão"
       folder="curso_caixa"
-      slideTotal={8}
+      SlideTotal={8}
       back='contratacoes'
     />
   )

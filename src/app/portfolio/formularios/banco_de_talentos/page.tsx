@@ -8,7 +8,7 @@ export default function BancoTalentos() {
       type="Estratégico"
       local="Escola de Governo e Gestão"
       folder="banco_de_talentos"
-      slideTotal={25}
+      SlideTotal={25}
       back='formularios'
     />
   )

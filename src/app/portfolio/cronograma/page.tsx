@@ -17,7 +17,7 @@ export default function Cronogramas() {
         <div className="grid grid-cols-3 gap-x-5 border-2 border-primary-10 px-3 py-8 rounded-lg my-3">
           <div className="col-span-3 lg:col-span-1 flex justify-center lg:justify-end">
           <Image
-            src={`/images/${item.image}/`}
+            src={`/${item.image}`}
             width={300}
             height={300}
             alt="Foto de Deborah Moreira"
