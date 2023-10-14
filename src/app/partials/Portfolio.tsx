@@ -6,9 +6,6 @@ export default function Portfolio() {
     <div className='pb-16'>
       <div className='text-center py-10 px-5 md:w-2/3 mx-auto'>
         <h2 className='text-primary-10 text-4xl font-semibold mb-2'>Projetos</h2>
-        <p className='text-white'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Est mollitia ab eaque aliquid laborum suscipit ipsum vel hic harum accusantium tempora iure modi enim rerum quas a quae, corrupti impedit!
-        </p>
       </div>
       <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-x-16 gap-y-5 px-24">
         {data.map((item, index) => (

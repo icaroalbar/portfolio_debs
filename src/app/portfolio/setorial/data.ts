@@ -5,7 +5,7 @@ export const data = [
       type: "Planejamento Setorial",
       local: "Subsecretaria Executiva",
       image: "nucleo_de_contratos/Slide1.png",
-      link: ""
+      link: "portfolio/setorial/nucleo_de_contratos"
     },
     {
       title: "Núcleo de Projetos e Parcerias",
@@ -13,6 +13,6 @@ export const data = [
       type: "Planejamento Setorial",
       local: "Escola de Governo e Gestão",
       image: "nucleo_de_projetos_e_parcerias/Slide1.png",
-      link: ""
+      link: "portfolio/setorial/nucleo_de_projetos_e_parcerias"
     },
   ]

@@ -8,7 +8,7 @@ export default function Contratacoes() {
       type="Estudo Analítico"
       local="Escola de Governo e Gestão"
       folder="contratacao_ies"
-      SlideTotal={16}
+      SlideTotal={17}
       back='contratacoes'
     />
   )

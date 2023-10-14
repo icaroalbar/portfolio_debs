@@ -5,7 +5,7 @@ export const data = [
       type: "Planejamento",
       local: "Escola de Governo e Gestão",
       image: "residencia_em_gestao_publica/Slide1.png",
-      link: ""
+      link: "portfolio/gestao/residencia_em_gestao_publica"
     },
     {
       title: "Plano de Capacitação",
@@ -13,6 +13,6 @@ export const data = [
       type: "Implementação Ágil",
       local: "Escola de Governo e Gestão",
       image: "plano_de_capacitacao/Slide1.png",
-      link: ""
+      link: "portfolio/gestao/plano_de_capacitacao"
     },
   ]
