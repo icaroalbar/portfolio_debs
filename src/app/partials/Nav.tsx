@@ -8,8 +8,8 @@ const data = [
     href: '/',
   },
   {
-    label: 'portfólio',
-    href: '#',
+    label: 'projetos',
+    href: '#portfolio',
   }
 ]
 

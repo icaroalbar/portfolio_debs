@@ -3,7 +3,7 @@ import { data } from './data';
 
 export default function Portfolio() {
   return (
-    <div className='pb-16'>
+    <div className='pb-16' id='portfolio'>
       <div className='text-center py-10 px-5 md:w-2/3 mx-auto'>
         <h2 className='text-primary-10 text-4xl font-semibold mb-2'>Projetos</h2>
       </div>
