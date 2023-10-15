@@ -9,7 +9,7 @@ export default function FormulariosEstrategicos() {
       <div className="inline-block">
       <Link href={'/'} className="bg-secondary-10 text-white font-medium rounded-md px-5 py-1 transition-colors hover:bg-secondary-20 flex gap-x-1 items-center"><BiLeftArrowAlt />Voltar</Link>
       </div>
-      <h1 className="text-3xl font-semibold text-blue-10 mt-6 text-center md:text-start">Formularios estrategicos</h1>
+      <h1 className="text-3xl font-semibold text-blue-10 mt-6 text-center md:text-start">Planejamento para contratações</h1>
 
       {data.map((item, index) => (
         <Link href={`/${item.link}`} key={index}>
