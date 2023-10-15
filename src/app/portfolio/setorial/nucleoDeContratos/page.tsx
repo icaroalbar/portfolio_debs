@@ -9,7 +9,7 @@ export default function nucleoDeContratos() {
       local="Subsecretaria Executiva"
       folder="nucleoDeContratos"
       SlideTotal={9}
-      back='gestao'
+      back='setorial'
     />
   )
 }

@@ -9,7 +9,7 @@ export default function nucleoDeProjetosParcerias() {
       local="Escola de Governo e Gestão"
       folder="nucleoDeProjetosParcerias"
       SlideTotal={20}
-      back='gestao'
+      back='setorial'
     />
   )
 }

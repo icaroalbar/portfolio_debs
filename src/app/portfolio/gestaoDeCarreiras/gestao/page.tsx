@@ -1,6 +1,6 @@
 import { ImagePage } from "@/components/ImagePage";
 
-export default function GestaoCarreiras() {
+export default function gestaoDeCarreiras() {
   return (
     <ImagePage 
       title="Carreiras EGG"
@@ -9,7 +9,7 @@ export default function GestaoCarreiras() {
       local="Escola de Governo e Gestão"
       folder="gestaoDeCarreiras"
       SlideTotal={7}
-      back='gestao_carreiras'
+      back='gestaoDeCarreiras'
     />
   )
 }

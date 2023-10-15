@@ -5,7 +5,7 @@ export const data = [
       type: "Gestão de Carreiras",
       local: "Escola de Governo e Gestão",
       image: "gestaoDeCarreiras/Slide1.png",
-      link: "portfolio/gestao_carreiras/gestao"
+      link: "portfolio/gestaoDeCarreiras/gestao"
     },
     
   ]

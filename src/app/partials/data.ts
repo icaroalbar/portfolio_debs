@@ -37,6 +37,6 @@ export const data = [
     {
       title: "Gestão de Carreiras",
       resume: "Planejar grupos de trabalho, possibilidades de crescimento de carreira e de equipe abre espaço para germinar sonhos, projetos e felicidade!",
-      href: "gestao_carreiras"
+      href: "gestaoDeCarreiras"
     },
   ];
