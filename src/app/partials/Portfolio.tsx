@@ -7,7 +7,7 @@ export default function Portfolio() {
       <div className='text-center py-10 px-5 md:w-2/3 mx-auto'>
         <h2 className='text-primary-10 text-4xl font-semibold mb-2'>Projetos</h2>
       </div>
-      <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-x-16 gap-y-5 px-24">
+      <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-x-16 gap-y-5 px-16 sm:px-24">
         {data.map((item, index) => (
           <div key={index} className='border-2 py-5 justify-between border-secondary-10 p-3 text-center flex flex-col gap-y-5 rounded-lg'>
             <h3 className='uppercase font-medium text-lg text-[#404040] bg-primary-10'>{item.title}</h3>
