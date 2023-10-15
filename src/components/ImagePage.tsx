@@ -28,12 +28,12 @@ export const ImagePage = ({
       </div>
       <h1 className="text-3xl font-semibold text-blue-10 mt-6 text-center md:text-start">{title}</h1>
       <p className="font-light text-white text-lg text-justify my-3">{description}</p>
-      <ul className="grid grid-cols-2 sm:flex gap-x-5 mb-5">
-        <li className="col-span-2 sm:col-span-1">
+      <ul className="flex gap-x-5 mb-5">
+        <li>
           <label className="font-medium text-blue-10">Tipo de projeto</label>
           <p className="font-light text-white">{type}</p>
         </li>
-        <li className="col-span-2 sm:col-span-1">
+        <li>
           <label className="font-medium text-blue-10">Local</label>
           <p className="font-light text-white">{local}</p>
         </li>
