@@ -28,7 +28,7 @@ export const data = [
       description: "Formulário para criação de banco de talentos da Escola de Governo e Gestão da Prefeitura de Niterói",
       type: "Estratégico",
       local: "Escola de Governo e Gestão",
-      image: "banco_de_talentos/Slide1.png",
-      link: "portfolio/formularios/banco_de_talentos"
+      image: "bancoDeTalentos/Slide1.png",
+      link: "portfolio/formularios/bancoDeTalentos"
     },
   ]
