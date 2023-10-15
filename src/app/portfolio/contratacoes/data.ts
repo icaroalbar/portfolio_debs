@@ -1,34 +1,34 @@
 export const data = [
     {
-      title: "Curso de Capacitação para nova lei de licitações e contratos",
-      description: "Curso de capacitação para implementação da nova lei de licitações e contratos no município de Niterói",
-      type: "Estudo Analítico",
+      title: "Formulário de solicitação de demandas",
+      description: "Proposta e criação de um formulário para o recebimento de demandas que chegavam de maneira aleatória e desorganizada.",
+      type: "Estratégico",
       local: "Escola de Governo e Gestão",
-      image: "nova_lei_licitacoes/Slide1.png",
-      link: "portfolio/contratacoes/nova_lei_licitacoes"
+      image: "formulario_de_solicitacoes/Slide1.png",
+      link: "portfolio/formularios/formulario_de_solicitacoes"
     },
     {
-      title: "Instituição de ensino superior - Inexigibilidade",
-      description: "Contratação de instituição de ensino superior para capacitação dos servidores da prefeitura de Niterói em competências transversais, em consonância ao Plano de Capacitação do Município.",
-      type: "Estudo Analítico",
-      local: "Escola de Governo e Gestão",
-      image: "contratacao_ies/Slide1.png",
-      link: "portfolio/contratacoes/contratacao_ies"
-    },     
+      title: "Plano de Contratações Anual",
+      description: "Mapeamento de contratações da secretaria de Planejamento, Orçamento e Modernização da Gestão, conforme lei 14.133/2021.",
+      type: "Estratégico",
+      local: "Subsecretaria Executiva - Núcleo de Orçamento Setorial e Contratos",
+      image: "formulario_pca/Slide1.png",
+      link: "portfolio/formularios/formulario_pca"
+    },
     {
-    title: "Roadmap para contratação de curso - Inexigibilidade",
-    description: "Consultoria para Escritório de Gestão de Projetos de Niterói.",
-    type: "Estudo Analítico",
-    local: "Escola de Governo e Gestão",
-    image: "curso_caixa/Slide1.png",
-    link: "portfolio/contratacoes/curso_caixa"
-  },
-  {
-    title: "Contratação de consultoria para o 'Niterói Que Queremos'.",
-    description: "Estudo analítico para contratação de consultoria para continuidade do Programa Niterói que Queremos - Edição 10 anos.",
-    type: "Estudo Analítico",
-    local: "Núcleo de Orçamento Setorial e Contratos",
-    image: "consultoria_nqq/Slide1.png",
-    link: "portfolio/contratacoes/consultoria_nqq"
-  }
-]
+      title: "Formação NLLC",
+      description: "Pesquisa para entender a demanda de capacitação para curso de formação na Nova Lei de Licitações e Contratos",
+      type: "Estratégico",
+      local: "Escola de Governo e Gestão",
+      image: "formulario_nllc/Slide1.png",
+      link: "portfolio/formularios/formulario_nllc"
+    },
+    {
+      title: "Banco de Talentos",
+      description: "Formulário para criação de banco de talentos da Escola de Governo e Gestão da Prefeitura de Niterói",
+      type: "Estratégico",
+      local: "Escola de Governo e Gestão",
+      image: "banco_de_talentos/Slide1.png",
+      link: "portfolio/formularios/banco_de_talentos"
+    },
+  ]
