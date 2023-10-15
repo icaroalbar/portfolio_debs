@@ -36,16 +36,16 @@ export const data = [
       description: "Cronograma realista, levando em consideração capacidade da equipe, tempo das tarefas e orçamento para contratação de",
       type: "Cronogramas",
       local: "Subsecretaria Executiva",
-      image: "fabrica_metricas/Slide1.png",
-      link: "portfolio/cronograma/fabrica_metricas"
+      image: "fabricaMetricas/Slide1.png",
+      link: "portfolio/cronograma/fabricaMetricas"
     },
     {
       title: "Fabrica de software",
       description: "Cronograma realista, levando em consideração capacidade da equipe, tempo das tarefas e orçamento para contratação de",
       type: "Cronogramas",
       local: "Subsecretaria Executiva",
-      image: "fabrica_software/Slide1.png",
-      link: "portfolio/cronograma/fabrica_software"
+      image: "fabricaSoftware/Slide1.png",
+      link: "portfolio/cronograma/fabricaSoftware"
     },
     {
       title: "MTM",

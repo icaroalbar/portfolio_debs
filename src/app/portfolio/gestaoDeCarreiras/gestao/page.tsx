@@ -7,7 +7,7 @@ export default function GestaoCarreiras() {
       description="Estruturação de Núcleos e plano de crescimento para Escola de Governo e Gestão da Prefeitura de Niterói"
       type="Gestão de Carreiras"
       local="Escola de Governo e Gestão"
-      folder="gestao_de_carreiras"
+      folder="gestaoDeCarreiras"
       SlideTotal={7}
       back='gestao_carreiras'
     />

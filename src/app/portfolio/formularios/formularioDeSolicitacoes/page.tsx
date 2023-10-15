@@ -7,7 +7,7 @@ export default function Solicitacoes() {
       description="Proposta e criação de um formulário para o recebimento de demandas que chegavam de maneira aleatória e desorganizada."
       type="Estratégico"
       local="Escola de Governo e Gestão"
-      folder="formulario_de_solicitacoes"
+      folder="formularioDeSolicitacoes"
       SlideTotal={41}
       back='formularios'
     />

@@ -7,7 +7,7 @@ export default function ContratacaoAnual() {
       description="Mapeamento de contratações da secretaria de Planejamento, Orçamento e Modernização da Gestão, conforme lei 14.133/2021."
       type="Estratégico"
       local="Subsecretaria Executiva - Núcleo de Orçamento Setorial e Contratos"
-      folder="formulario_pca"
+      folder="formularioPca"
       SlideTotal={16}
       back='formularios'
     />
