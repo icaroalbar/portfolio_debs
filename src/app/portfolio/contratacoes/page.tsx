@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { BiLeftArrowAlt } from 'react-icons/bi';
+import { TbCirclePlus } from 'react-icons/tb';
 import Image from 'next/image'
 import { data } from "./data";
 
@@ -35,7 +36,9 @@ export default function Contratacoes() {
                 <p className="font-light">{item.local}</p>
               </li>
 
-                <Link href={`/${item.link}`} className="col-span-3 xl:col-span-1 bg-secondary-10 text-center text-white font-medium rounded-md px-3 py-2 transition-colors hover:bg-secondary-20">Saiba mais</Link>
+                <li className="col-span-3 xl:col-span-1 flex justify-center items-center">
+                  <Link href={`/${item.link}`} className="bg-secondary-10 text-center text-white font-medium rounded-full text-4xl transition-colors hover:bg-secondary-20 "><TbCirclePlus /></Link>
+                </li>
 
             </ul>
           </div>

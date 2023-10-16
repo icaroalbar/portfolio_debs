@@ -8,7 +8,7 @@ export const data = [
       link: "portfolio/cronograma/brasoftware"
     },
     {
-      title: "Calendario",
+      title: "Calendário",
       description: "Cronograma realista, levando em consideração capacidade da equipe, tempo das tarefas e orçamento para contratação de",
       type: "Cronogramas",
       local: "Subsecretaria Executiva",
@@ -32,7 +32,7 @@ export const data = [
       link: "portfolio/cronograma/eciga"
     },
     {
-      title: "Fabrica de métricas",
+      title: "Fábrica de métricas",
       description: "Cronograma realista, levando em consideração capacidade da equipe, tempo das tarefas e orçamento para contratação de",
       type: "Cronogramas",
       local: "Subsecretaria Executiva",
@@ -40,7 +40,7 @@ export const data = [
       link: "portfolio/cronograma/fabricaMetricas"
     },
     {
-      title: "Fabrica de software",
+      title: "Fábrica de software",
       description: "Cronograma realista, levando em consideração capacidade da equipe, tempo das tarefas e orçamento para contratação de",
       type: "Cronogramas",
       local: "Subsecretaria Executiva",
