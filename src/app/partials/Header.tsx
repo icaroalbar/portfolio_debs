@@ -18,8 +18,8 @@ export default function Header() {
                 <p className='bg-primary-10 text-sm py-1 text-slate-800 uppercase font-medium text-center text-[15.5px]'>Gestão de projetos ágeis</p>
               </div>
               <div className="flex flex-col mt-10 gap-y-8 text-lg">
-                <p className='text-center italic font-light'>Minha paixão é atuar com inovação no setor público. </p>
-                <p className='text-justify'>Minha missão é promover e facilitar a execução de projetos que auxiliem a construção de Políticas Públicas mais equânimes para efetivar e garantir qualidade de vida para toda a população.</p>
+                <p className='text-center italic font-light'>Atuo com inovação por meio de metodologias ágeis. </p>
+                <p className='text-justify'>Minha missão é promover e facilitar a execução de projetos promovendo agilidade com leveza e empatia.</p>
               </div>
             </div>
           </div>
