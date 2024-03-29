@@ -15,7 +15,7 @@ export default function Header() {
             <div className=" text-white px-8 lg:px-0 lg:w-2/3 mx-auto flex flex-col">
               <h1 className="uppercase font-bold text-5xl sm:text-7xl text-center">deborah moreira</h1>
               <div className='border-t-4 mt-3 py-2 border-secondary-10'>
-                <p className='bg-primary-10 text-sm py-1 text-slate-800 uppercase font-medium text-center text-[15.5px]'>Gestora de Projetos de Políticas Públicas e Inovação</p>
+                <p className='bg-primary-10 text-sm py-1 text-slate-800 uppercase font-medium text-center text-[15.5px]'>Gestão de projetos agéis</p>
               </div>
               <div className="flex flex-col mt-10 gap-y-8 text-lg">
                 <p className='text-center italic font-light'>Minha paixão é atuar com inovação no setor público. </p>
